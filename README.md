@@ -1,4 +1,6 @@
 # 🌱 Malina Coin (MLN)
+![Uploading image.png…]()
+
 
 **Malina Coin** is a utility-focused crypto project that rewards smart energy usage and enables a real-world, day-to-day digital currency powered by energy behavior.
 
